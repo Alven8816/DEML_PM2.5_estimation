@@ -1,6 +1,11 @@
-# DEML_PM2.5_estimation
+# DEML PM2.5 Estimation Presentation (2023-04-21)
 
-## This is a sharing materal for presentation in Jinan University. (2023-04-21)
+
+## This is a sharing materal for presentation in Jinan University. 
+
+### [Presentation slides](https://github.com/Alven8816/DEML_PM2.5_estimation/blob/main/data/DEML%20and%20PM2.5%20exposure%20estimation.pdf).
+
+# R code demonstration
 
 ## Check the package installations first
 
